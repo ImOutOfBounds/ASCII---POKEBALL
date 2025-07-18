@@ -10,3 +10,7 @@ Result using a 50x50 image
 
 Result using the same image, but resized to 100x50
 ![alt text](./img/result2.jpg)
+
+The image can be changed by modifying the parameter inside the ```preload()``` function, which can be found in sketch.js.
+
+![alt text](image.png)
